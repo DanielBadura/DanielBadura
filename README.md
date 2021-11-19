@@ -29,4 +29,4 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 #### 📫 How to reach me
 
 - Twitter: [@danielbadura](https://twitter.com/danielbadura)
-- Email: [daniel.badura@patchlevel.de](mailto://daniel.badura@patchlevel.de)
+- Email: [daniel.badura@patchlevel.de](mailto:daniel.badura@patchlevel.de)

@@ -21,9 +21,9 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.0.2), today) - Doctrine extensions for PHPStan
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.1.1](https://github.com/patchlevel/coding-standard/releases/tag/1.1.1), 1 week ago) - The Patchlevel coding standard.
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.5.1](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.5.1), 2 weeks ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.0.1), 3 weeks ago) - Doctrine extensions for PHPStan
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([4.12.2](https://github.com/Roave/BetterReflection/releases/tag/4.12.2), 11 months ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [patchlevel/enum](https://github.com/patchlevel/enum) ([1.0.0](https://github.com/patchlevel/enum/releases/tag/1.0.0), 11 months ago) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed.
 

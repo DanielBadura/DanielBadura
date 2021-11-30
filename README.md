@@ -12,10 +12,10 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 #### 👷 Check out what I'm currently working on
 
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - WIP (today)
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (today)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) -  (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (1 week ago)
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (2 months ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (4 months ago)
 
 ---
 

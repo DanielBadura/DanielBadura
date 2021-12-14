@@ -11,17 +11,17 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - lightweight event-sourcing library based on doctrine dbal (2 days ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (5 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - lightweight event-sourcing library based on doctrine dbal (3 days ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (6 days ago)
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (1 week ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) -  (1 week ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 week ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) -  (2 weeks ago)
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.8.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.8.0), 6 days ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.0.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.0.0), 1 day ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([1.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/1.0.0), 1 week ago) - psalm plugin for patchlevel/event-sourcing
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.0.2), 2 weeks ago) - Doctrine extensions for PHPStan
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.1.1](https://github.com/patchlevel/coding-standard/releases/tag/1.1.1), 3 weeks ago) - The Patchlevel coding standard.

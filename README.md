@@ -11,19 +11,19 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 day ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - symfony bundle for patchlevel/event-sourcing (1 day ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 weeks ago)
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (3 weeks ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 days ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 weeks ago)
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies (4 weeks ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (4 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.0.0](https://github.com/Roave/BetterReflection/releases/tag/5.0.0), 3 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.1.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.1.0), 4 days ago) - symfony bundle for patchlevel/event-sourcing
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([1.1.0](https://github.com/patchlevel/event-sourcing/releases/tag/1.1.0), 5 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.0.0](https://github.com/Roave/BetterReflection/releases/tag/5.0.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.1.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.1.0), 5 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([1.1.0](https://github.com/patchlevel/event-sourcing/releases/tag/1.1.0), 6 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.0.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.0.0), 2 weeks ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([1.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/1.0.0), 3 weeks ago) - psalm plugin for patchlevel/event-sourcing
 

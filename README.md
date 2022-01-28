@@ -21,10 +21,10 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.2.7](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.7), 2 days ago) - Doctrine extensions for PHPStan
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.2.7](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.7), 3 days ago) - Doctrine extensions for PHPStan
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([1.2.1](https://github.com/patchlevel/event-sourcing/releases/tag/1.2.1), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.0.7](https://github.com/Roave/BetterReflection/releases/tag/5.0.7), 1 week ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.0), 2 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.0), 3 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.0.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.0.0), 1 month ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 
 #### 📫 How to reach me

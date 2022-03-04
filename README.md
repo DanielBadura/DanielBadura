@@ -21,8 +21,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 2 days ago) - The Symfony PHP framework
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 3 days ago) - The Symfony PHP framework
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.2.0](https://github.com/Roave/BetterReflection/releases/tag/5.2.0), 5 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.2.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.2.11), 1 week ago) - Doctrine extensions for PHPStan
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.1), 1 month ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([1.2.1](https://github.com/patchlevel/event-sourcing/releases/tag/1.2.1), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal

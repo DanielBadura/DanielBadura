@@ -13,16 +13,16 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (3 weeks ago)
 - [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (3 weeks ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 weeks ago)
-- [patchlevel/react-workshop](https://github.com/patchlevel/react-workshop) -  (3 weeks ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (4 weeks ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (4 weeks ago)
+- [patchlevel/react-workshop](https://github.com/patchlevel/react-workshop) -  (4 weeks ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA1), 2 days ago) - The Symfony PHP framework
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0), 3 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.2), 1 week ago) - Doctrine extensions for PHPStan
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta1), 2 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.1), 2 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal

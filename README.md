@@ -21,9 +21,9 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 6 days ago) - The Symfony PHP framework
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta3](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta3), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.3), 1 week ago) - Doctrine extensions for PHPStan
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta4](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta4), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 1 week ago) - The Symfony PHP framework
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([1.3.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.3), 2 weeks ago) - Doctrine extensions for PHPStan
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0), 2 weeks ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.1), 3 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 

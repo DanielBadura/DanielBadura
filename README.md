@@ -21,10 +21,10 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 1 day ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 1 week ago) - The Symfony PHP framework
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta5](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta5), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0), 1 month ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([1.2.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/1.2.1), 3 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.0.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.0.0), 5 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 
 #### 📫 How to reach me

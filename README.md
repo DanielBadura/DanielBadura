@@ -11,8 +11,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 month ago)
-- [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (1 month ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 months ago)
+- [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (2 months ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
 - [patchlevel/react-workshop](https://github.com/patchlevel/react-workshop) -  (2 months ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 months ago)
@@ -21,8 +21,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 4 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 4 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 5 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 5 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.4.0](https://github.com/Roave/BetterReflection/releases/tag/5.4.0), 1 month ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.0.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.0.0), 5 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies

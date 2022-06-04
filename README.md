@@ -24,8 +24,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 - [symfony/translation](https://github.com/symfony/translation) ([v6.1.0](https://github.com/symfony/translation/releases/tag/v6.1.0), 1 week ago) - The Translation component provides tools to internationalize your application.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0](https://github.com/symfony/symfony/releases/tag/v6.1.0), 1 week ago) - The Symfony PHP framework
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 1 week ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 2 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 2 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 
 #### 📫 How to reach me
 

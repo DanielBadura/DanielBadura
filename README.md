@@ -15,16 +15,16 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 - [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (2 months ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
 - [patchlevel/react-workshop](https://github.com/patchlevel/react-workshop) -  (2 months ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 months ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (3 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0), 3 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.6.0](https://github.com/Roave/BetterReflection/releases/tag/5.6.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.1), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 1 week ago) - The Symfony PHP framework
-- [symfony/translation](https://github.com/symfony/translation) ([v6.1.0](https://github.com/symfony/translation/releases/tag/v6.1.0), 2 weeks ago) - The Translation component provides tools to internationalize your application.
+- [symfony/translation](https://github.com/symfony/translation) ([v6.1.0](https://github.com/symfony/translation/releases/tag/v6.1.0), 3 weeks ago) - The Translation component provides tools to internationalize your application.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 3 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 
 #### 📫 How to reach me

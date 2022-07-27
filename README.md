@@ -21,9 +21,9 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0), 5 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0), 2 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.1.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.1.0), 2 weeks ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.1.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.1.0), 3 weeks ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.1](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.1), 3 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.2](https://github.com/symfony/framework-bundle/releases/tag/v6.1.2), 1 month ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 

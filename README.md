@@ -21,7 +21,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0), 5 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0), 6 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([4.2.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/4.2.0), 2 weeks ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [symfony/translation](https://github.com/symfony/translation) ([v6.1.4](https://github.com/symfony/translation/releases/tag/v6.1.4), 3 weeks ago) - The Translation component provides tools to internationalize your application.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.4](https://github.com/symfony/framework-bundle/releases/tag/v6.1.4), 3 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.

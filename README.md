@@ -11,21 +11,21 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 week ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 weeks ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 weeks ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (3 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 - [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (6 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.1.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.1.0-beta1), 1 day ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.1.0-beta1](https://github.com/patchlevel/event-sourcing/releases/tag/2.1.0-beta1), 2 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.2.0](https://github.com/Roave/BetterReflection/releases/tag/6.2.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.5](https://github.com/symfony/symfony/releases/tag/v6.1.5), 1 week ago) - The Symfony PHP framework
+- [symfony/translation](https://github.com/symfony/translation) ([v6.1.6](https://github.com/symfony/translation/releases/tag/v6.1.6), 1 day ago) - The Translation component provides tools to internationalize your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.6](https://github.com/symfony/framework-bundle/releases/tag/v6.1.6), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.6](https://github.com/symfony/symfony/releases/tag/v6.1.6), 1 day ago) - The Symfony PHP framework
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.1.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.1.0-beta1), 2 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.1.0-beta1](https://github.com/patchlevel/event-sourcing/releases/tag/2.1.0-beta1), 3 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 
 #### 📫 How to reach me
 

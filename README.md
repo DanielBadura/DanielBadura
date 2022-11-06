@@ -21,7 +21,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0), 5 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0), 6 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.3](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.3), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal

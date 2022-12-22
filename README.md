@@ -29,6 +29,5 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 📫 How to reach me
 
-- Mastodon: <a rel="me" href="https://phpc.social/@danielbadura">@danielbadura</a>
 - Twitter: [@danielbadura](https://twitter.com/danielbadura)
 - Email: [daniel.badura@patchlevel.de](mailto:daniel.badura@patchlevel.de)

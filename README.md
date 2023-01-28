@@ -11,7 +11,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (today)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 month ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (1 month ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (2 months ago)
@@ -21,11 +21,11 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), today) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
-- [symfony/translation](https://github.com/symfony/translation) ([v6.2.5](https://github.com/symfony/translation/releases/tag/v6.2.5), 3 days ago) - The Translation component provides tools to internationalize your application.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.5](https://github.com/symfony/serializer/releases/tag/v6.2.5), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.5](https://github.com/symfony/framework-bundle/releases/tag/v6.2.5), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.5](https://github.com/symfony/symfony/releases/tag/v6.2.5), 3 days ago) - The Symfony PHP framework
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [symfony/translation](https://github.com/symfony/translation) ([v6.2.5](https://github.com/symfony/translation/releases/tag/v6.2.5), 4 days ago) - The Translation component provides tools to internationalize your application.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.5](https://github.com/symfony/serializer/releases/tag/v6.2.5), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.5](https://github.com/symfony/framework-bundle/releases/tag/v6.2.5), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.5](https://github.com/symfony/symfony/releases/tag/v6.2.5), 4 days ago) - The Symfony PHP framework
 
 #### 📫 How to reach me
 

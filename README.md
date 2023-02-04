@@ -11,8 +11,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 days ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (3 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (3 days ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (1 month ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (2 months ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (7 months ago)
@@ -21,9 +21,9 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 2 days ago) - The Symfony PHP framework
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 5 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.1.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.1.0), 6 days ago) - psalm plugin for patchlevel/event-sourcing
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 3 days ago) - The Symfony PHP framework
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 6 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.1.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.1.0), 1 week ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [symfony/translation](https://github.com/symfony/translation) ([v6.2.5](https://github.com/symfony/translation/releases/tag/v6.2.5), 1 week ago) - The Translation component provides tools to internationalize your application.
 

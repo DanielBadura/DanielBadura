@@ -25,7 +25,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 3 weeks ago) - The Symfony PHP framework
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 3 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.1.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.1.0), 3 weeks ago) - psalm plugin for patchlevel/event-sourcing
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), 3 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), 4 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 
 #### 📫 How to reach me
 

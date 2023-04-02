@@ -13,7 +13,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 month ago)
 - [patchlevel/php](https://github.com/patchlevel/php) -  (1 month ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 month ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 months ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (2 months ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (3 months ago)
 
@@ -21,8 +21,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.8](https://github.com/symfony/serializer/releases/tag/v6.2.8), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 1 day ago) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.8](https://github.com/symfony/serializer/releases/tag/v6.2.8), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 2 days ago) - The Symfony PHP framework
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.3.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.3.0), 1 month ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 2 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.0), 2 months ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal

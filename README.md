@@ -21,11 +21,11 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2), 1 day ago) - The Symfony PHP framework
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.11](https://github.com/symfony/serializer/releases/tag/v6.2.11), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2), 2 days ago) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.11](https://github.com/symfony/serializer/releases/tag/v6.2.11), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.1](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.1), 3 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.3.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.3.0), 3 months ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 3 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.2.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.2.0), 4 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 
 #### 📫 How to reach me
 

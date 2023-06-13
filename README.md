@@ -22,8 +22,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 #### 🔭 Latest releases I've contributed to
 
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 1 week ago) - The Patchlevel coding standard.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0](https://github.com/symfony/serializer/releases/tag/v6.3.0), 1 week ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 1 week ago) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0](https://github.com/symfony/serializer/releases/tag/v6.3.0), 2 weeks ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 2 weeks ago) - The Symfony PHP framework
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.2.1](https://github.com/patchlevel/event-sourcing/releases/tag/2.2.1), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.3.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.3.0), 4 months ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 

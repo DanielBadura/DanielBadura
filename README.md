@@ -21,7 +21,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.4.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.4.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.4.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.4.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta5](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta5), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta2), 3 months ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 6 months ago) - The Patchlevel coding standard.

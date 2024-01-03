@@ -15,14 +15,14 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (6 months ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (7 months ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (7 months ago)
-- [patchlevel/php](https://github.com/patchlevel/php) -  (10 months ago)
+- [patchlevel/php](https://github.com/patchlevel/php) -  (11 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.3.1](https://github.com/patchlevel/event-sourcing/releases/tag/2.3.1), 5 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.6.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.3.1](https://github.com/patchlevel/event-sourcing/releases/tag/2.3.1), 6 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.6.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta3](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta3), 3 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 7 months ago) - The Patchlevel coding standard.
 

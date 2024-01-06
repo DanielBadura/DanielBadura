@@ -21,8 +21,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta4), 2 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta7](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta7), 2 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc1](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc1), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta4), 3 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.6.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 7 months ago) - The Patchlevel coding standard.
 

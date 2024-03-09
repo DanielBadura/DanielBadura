@@ -11,6 +11,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean. (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 week ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 month ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (8 months ago)
@@ -20,9 +21,10 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.3.2](https://github.com/patchlevel/event-sourcing/releases/tag/2.3.2), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc7](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc7), 1 week ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc7](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc7), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 9 months ago) - The Patchlevel coding standard.
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) ([1.0.2](https://github.com/qossmic/deptrac/releases/tag/1.0.2), 1 year ago) - Keep your architecture clean.
 
 #### 📫 How to reach me
 

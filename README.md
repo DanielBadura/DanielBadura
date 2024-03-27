@@ -11,6 +11,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (3 weeks ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 months ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (9 months ago)
@@ -20,8 +21,9 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 1 day ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.3.2](https://github.com/patchlevel/event-sourcing/releases/tag/2.3.2), 2 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc7](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc7), 4 weeks ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc7](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc7), 1 month ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 9 months ago) - The Patchlevel coding standard.
 
 #### 📫 How to reach me

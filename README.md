@@ -11,8 +11,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/.github](https://github.com/patchlevel/.github) -  (3 days ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
+- [patchlevel/.github](https://github.com/patchlevel/.github) -  (4 days ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 weeks ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (3 months ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (10 months ago)
@@ -21,7 +21,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc14](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc14), 1 day ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc14](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc14), 2 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 3 weeks ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 10 months ago) - The Patchlevel coding standard.
 

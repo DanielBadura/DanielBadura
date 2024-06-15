@@ -11,8 +11,8 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
-- [patchlevel/.github](https://github.com/patchlevel/.github) -  (1 month ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
+- [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 months ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (5 months ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 year ago)

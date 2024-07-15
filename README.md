@@ -15,14 +15,14 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (1 week ago)
 - [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 weeks ago)
-- [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 months ago)
+- [patchlevel/.github](https://github.com/patchlevel/.github) -  (3 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.2.0), 5 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.4.1](https://github.com/patchlevel/hydrator/releases/tag/1.4.1), 5 days ago) - With this library you can hydrate objects from array into objects and back again. 
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.2.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.2.0), 6 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.4.1](https://github.com/patchlevel/hydrator/releases/tag/1.4.1), 6 days ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.1.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.1.0), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 3 months ago) - psalm plugin for patchlevel/event-sourcing
 

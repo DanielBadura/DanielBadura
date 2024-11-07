@@ -21,7 +21,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.5.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.5.0), 2 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.5.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.5.0), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.5.1](https://github.com/patchlevel/hydrator/releases/tag/1.5.1), 3 weeks ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.3.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.3.0), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.0.0), 2 months ago) - psalm plugin for patchlevel/event-sourcing

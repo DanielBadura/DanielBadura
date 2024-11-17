@@ -13,7 +13,7 @@ Therefore I'm usin' alot of static analysis tools and writing alot of tests to e
 
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (1 month ago)
-- [patchlevel/.github](https://github.com/patchlevel/.github) -  (1 month ago)
+- [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 months ago)
 - [patchlevel/php](https://github.com/patchlevel/php) -  (2 months ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 months ago)
 

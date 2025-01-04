@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-My name is Daniel Badura, I'm a freelance software engineer from germany. I'm a full tryhard for building fast, reliable and stable software. 
-Therefore I'm usin' alot of static analysis tools and writing alot of tests to ensure that. If I have the time I want to give the community something back as of helping out in the OSS world.
+My name is Daniel Badura. I'm a freelance software engineer at [patchlevel](https://patchlevel.de) from Germany. I'm a full tryhard for building fast, reliable and stable software.
+I'm an Event Sourcing enthusiast and one of the maintainer of [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing). I occasionally give talks at user groups and conferences.
+You can book me if you need help realizing a project or training your employees on various topics, such as event sourcing, through talks or training sessions.
+
 
 #### 📈 My GitHub Statistics
 

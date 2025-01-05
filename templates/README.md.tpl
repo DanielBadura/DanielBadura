@@ -23,6 +23,16 @@ You can book me if you need help realizing a project or training your employees 
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+---
+
+### 📝 My recent blog posts
+
+{{range rss "https://patchlevel.de/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+---
+
 #### 📫 How to reach me
 
 - Email: [daniel.badura@patchlevel.de](mailto:daniel.badura@patchlevel.de)

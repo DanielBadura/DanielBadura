@@ -4,10 +4,16 @@ My name is Daniel Badura. I'm a freelance software engineer at [patchlevel](http
 I'm an Event Sourcing enthusiast and one of the maintainer of [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing). I occasionally give talks at user groups and conferences.
 You can book me if you need help realizing a project or training your employees on various topics, such as event sourcing, through talks or training sessions.
 
+---
 
-#### 📈 My GitHub Statistics
+#### 📝 Our recent blog posts
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DanielBadura&show_icons=true&count_private=true&hide_title=true)
+
+- [What is new in php event sourcing 3.6](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-6) (2 weeks ago)
+- [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony) (3 weeks ago)
+- [Mastering sensitive data handling and GDPR compliant secure data removal with event sourcing](https://patchlevel.de/blog/mastering-sensitive-data-handling-and-gdpr-compliant-secure-data-removal-with-event-sourcing) (1 month ago)
+- [What is new in php event sourcing 3.5](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-5) (2 months ago)
+- [Why should I use event sourcing?](https://patchlevel.de/blog/why-should-i-use-event-sourcing) (2 months ago)
 
 ---
 
@@ -30,19 +36,14 @@ You can book me if you need help realizing a project or training your employees 
 
 ---
 
-### 📝 My recent blog posts
-
-
-- [What is new in php event sourcing 3.6](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-6) (2 weeks ago)
-- [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony) (3 weeks ago)
-- [Mastering sensitive data handling and GDPR compliant secure data removal with event sourcing](https://patchlevel.de/blog/mastering-sensitive-data-handling-and-gdpr-compliant-secure-data-removal-with-event-sourcing) (1 month ago)
-- [What is new in php event sourcing 3.5](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-5) (2 months ago)
-- [Why should I use event sourcing?](https://patchlevel.de/blog/why-should-i-use-event-sourcing) (2 months ago)
-
----
-
 #### 📫 How to reach me
 
 - Email: [daniel.badura@patchlevel.de](mailto:daniel.badura@patchlevel.de)
 - Mastodon: <a rel="me" href="https://phpc.social/@danielbadura">@danielbadura</a>
 - Twitter: [@danielbadura](https://twitter.com/danielbadura)
+
+---
+
+#### 📈 My GitHub Statistics
+
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DanielBadura&show_icons=true&count_private=true&hide_title=true)

@@ -28,6 +28,19 @@ You can book me if you need help realizing a project or training your employees 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.6.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.6.1), 3 weeks ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.0.0), 4 months ago) - psalm plugin for patchlevel/event-sourcing
 
+---
+
+### 📝 My recent blog posts
+
+
+- [What is new in php event sourcing 3.6](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-6) (2 weeks ago)
+- [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony) (3 weeks ago)
+- [Mastering sensitive data handling and GDPR compliant secure data removal with event sourcing](https://patchlevel.de/blog/mastering-sensitive-data-handling-and-gdpr-compliant-secure-data-removal-with-event-sourcing) (1 month ago)
+- [What is new in php event sourcing 3.5](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-5) (2 months ago)
+- [Why should I use event sourcing?](https://patchlevel.de/blog/why-should-i-use-event-sourcing) (2 months ago)
+
+---
+
 #### 📫 How to reach me
 
 - Email: [daniel.badura@patchlevel.de](mailto:daniel.badura@patchlevel.de)

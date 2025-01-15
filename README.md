@@ -9,8 +9,8 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (3 days ago)
-- [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (4 days ago)
+- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (5 days ago)
+- [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (6 days ago)
 - [What is new in php event sourcing 3.6](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-6) (3 weeks ago)
 - [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony) (1 month ago)
 - [Mastering sensitive data handling and GDPR compliant secure data removal with event sourcing](https://patchlevel.de/blog/mastering-sensitive-data-handling-and-gdpr-compliant-secure-data-removal-with-event-sourcing) (2 months ago)
@@ -19,11 +19,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (1 week ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (1 week ago)
-- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (1 week ago)
+- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 weeks ago)
 
 ---
 

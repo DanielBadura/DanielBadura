@@ -23,13 +23,13 @@ You can book me if you need help realizing a project or training your employees 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
 - [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (3 weeks ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (4 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 5 days ago) - With this library you can hydrate objects from array into objects and back again. 
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 6 days ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.7.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.7.2), 2 weeks ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.8.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.8.0), 2 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.2.2](https://github.com/doctrine/dbal/releases/tag/4.2.2), 2 weeks ago) - Doctrine Database Abstraction Layer

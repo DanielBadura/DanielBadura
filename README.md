@@ -9,30 +9,30 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
+- [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (1 day ago)
 - [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (1 month ago)
 - [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (1 month ago)
 - [What is new in php event sourcing 3.6](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-6) (1 month ago)
 - [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony) (2 months ago)
-- [Mastering sensitive data handling and GDPR compliant secure data removal with event sourcing](https://patchlevel.de/blog/mastering-sensitive-data-handling-and-gdpr-compliant-secure-data-removal-with-event-sourcing) (3 months ago)
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 days ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
-- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (5 days ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (6 days ago)
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.1.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.1.0), 2 days ago) - psalm plugin for patchlevel/event-sourcing
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.8.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.8.0), 4 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.9.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.9.0), 4 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.4.0](https://github.com/patchlevel/worker/releases/tag/1.4.0), 6 days ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.1.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.1.0), 3 days ago) - psalm plugin for patchlevel/event-sourcing
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.8.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.8.0), 5 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.9.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.9.0), 5 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.4.0](https://github.com/patchlevel/worker/releases/tag/1.4.0), 1 week ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 2 weeks ago) - With this library you can hydrate objects from array into objects and back again. 
 
 ---

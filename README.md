@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (5 days ago)
+- [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (6 days ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (2 weeks ago)
 - [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (2 months ago)
 - [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (3 months ago)
@@ -19,11 +19,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
+- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (1 day ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 week ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (1 month ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
 
 ---
 

@@ -19,10 +19,10 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (1 week ago)
+- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (2 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (3 weeks ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (3 weeks ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 weeks ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 month ago)
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) - SpecBDD Framework for PHP (1 month ago)
 
 ---
@@ -30,7 +30,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 🔭 Latest releases I've contributed to
 
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.6.0](https://github.com/phpspec/phpspec/releases/tag/7.6.0), 1 week ago) - SpecBDD Framework for PHP
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.10.0](https://github.com/patchlevel/hydrator/releases/tag/1.10.0), 2 weeks ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.10.0](https://github.com/patchlevel/hydrator/releases/tag/1.10.0), 3 weeks ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.11.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.11.0), 3 weeks ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.11.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.11.0), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [cspray/phinal](https://github.com/cspray/phinal) ([2.1.0](https://github.com/cspray/phinal/releases/tag/2.1.0), 1 month ago) - A Psalm plugin to ensure your classes are marked final!

@@ -10,8 +10,8 @@ You can book me if you need help realizing a project or training your employees 
 
 
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (1 month ago)
-- [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (1 month ago)
-- [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (3 months ago)
+- [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (2 months ago)
+- [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (4 months ago)
 - [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (5 months ago)
 - [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (5 months ago)
 

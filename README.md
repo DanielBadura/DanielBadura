@@ -29,10 +29,10 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.2.4](https://github.com/doctrine/dbal/releases/tag/4.2.4), 1 day ago) - Doctrine Database Abstraction Layer
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 4 days ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
-- [cspray/phinal](https://github.com/cspray/phinal) ([2.1.1](https://github.com/cspray/phinal/releases/tag/2.1.1), 5 days ago) - A Psalm plugin to ensure your classes are marked final!
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.1.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.1.0), 4 weeks ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.2.4](https://github.com/doctrine/dbal/releases/tag/4.2.4), 2 days ago) - Doctrine Database Abstraction Layer
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 5 days ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [cspray/phinal](https://github.com/cspray/phinal) ([2.1.1](https://github.com/cspray/phinal/releases/tag/2.1.1), 6 days ago) - A Psalm plugin to ensure your classes are marked final!
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.1.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.1.0), 1 month ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([7.6.0](https://github.com/phpspec/phpspec/releases/tag/7.6.0), 1 month ago) - SpecBDD Framework for PHP
 
 ---

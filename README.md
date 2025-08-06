@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.1](https://github.com/doctrine/dbal/releases/tag/4.3.1), 2 weeks ago) - Doctrine Database Abstraction Layer
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.2](https://github.com/doctrine/dbal/releases/tag/4.3.2), 1 day ago) - Doctrine Database Abstraction Layer
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 1 month ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [cspray/phinal](https://github.com/cspray/phinal) ([2.1.1](https://github.com/cspray/phinal/releases/tag/2.1.1), 1 month ago) - A Psalm plugin to ensure your classes are marked final!
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.1.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.1.0), 2 months ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.

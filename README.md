@@ -19,11 +19,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 month ago)
-- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 months ago)
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 months ago)
-- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (3 months ago)
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (3 months ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 day ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
+- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (1 day ago)
+- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (1 day ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (1 day ago)
 
 ---
 

@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (3 months ago)
+- [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (4 months ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (4 months ago)
 - [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (6 months ago)
 - [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (7 months ago)
@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.0.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.0.0), 6 days ago) - 
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.0.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.0.0), 1 week ago) - 
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.2](https://github.com/doctrine/dbal/releases/tag/4.3.2), 2 weeks ago) - Doctrine Database Abstraction Layer
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 2 months ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [cspray/phinal](https://github.com/cspray/phinal) ([2.1.1](https://github.com/cspray/phinal/releases/tag/2.1.1), 2 months ago) - A Psalm plugin to ensure your classes are marked final!

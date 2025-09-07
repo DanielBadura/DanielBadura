@@ -12,16 +12,16 @@ You can book me if you need help realizing a project or training your employees 
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (4 months ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (4 months ago)
 - [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (6 months ago)
-- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (7 months ago)
+- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (8 months ago)
 - [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (8 months ago)
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (3 weeks ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (3 weeks ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (1 day ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
 - [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (3 weeks ago)
 - [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (3 weeks ago)
 
@@ -29,11 +29,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.3](https://github.com/doctrine/dbal/releases/tag/4.3.3), 2 days ago) - Doctrine Database Abstraction Layer
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.12.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.12.0), 3 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([8.0.0](https://github.com/phpspec/phpspec/releases/tag/8.0.0), 1 day ago) - SpecBDD Framework for PHP
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.12.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.12.0), 1 day ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.3](https://github.com/doctrine/dbal/releases/tag/4.3.3), 3 days ago) - Doctrine Database Abstraction Layer
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.12.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.12.0), 4 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.0.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.0.0), 3 weeks ago) - 
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 2 months ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
-- [cspray/phinal](https://github.com/cspray/phinal) ([2.1.1](https://github.com/cspray/phinal/releases/tag/2.1.1), 2 months ago) - A Psalm plugin to ensure your classes are marked final!
 
 ---
 

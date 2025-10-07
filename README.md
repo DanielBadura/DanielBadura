@@ -12,18 +12,18 @@ You can book me if you need help realizing a project or training your employees 
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (5 months ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (5 months ago)
 - [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (7 months ago)
-- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (8 months ago)
+- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (9 months ago)
 - [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (9 months ago)
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 month ago)
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (1 month ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 month ago)
 - [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (1 month ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 month ago)
 
 ---
 

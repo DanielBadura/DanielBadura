@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 2 weeks ago) - Doctrine Database Abstraction Layer
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 3 weeks ago) - Doctrine Database Abstraction Layer
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.12.1](https://github.com/patchlevel/event-sourcing/releases/tag/3.12.1), 1 month ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([8.0.0](https://github.com/phpspec/phpspec/releases/tag/8.0.0), 1 month ago) - SpecBDD Framework for PHP
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.12.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.12.0), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.

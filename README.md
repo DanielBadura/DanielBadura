@@ -10,8 +10,8 @@ You can book me if you need help realizing a project or training your employees 
 
 
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-11) (7 months ago)
-- [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (7 months ago)
-- [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (9 months ago)
+- [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (8 months ago)
+- [What is New in PHP Event Sourcing 3.8](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-8) (10 months ago)
 - [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing) (11 months ago)
 - [What is new in patchlevel/event-sourcing in version 3.7](https://patchlevel.de/blog/what-is-new-in-php-event-sourcing-3-7) (11 months ago)
 
@@ -19,21 +19,21 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (1 day ago)
-- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (1 day ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 days ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) -  (3 days ago)
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (2 days ago)
+- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (2 days ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) -  (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.3.0), 1 day ago) - PHPUnit testing utilities for patchlevel/event-sourcing
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.2.0), 2 days ago) - psalm plugin for patchlevel/event-sourcing
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 3 days ago) - Doctrine Database Abstraction Layer
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.1.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.1.0), 3 days ago) - 
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.2.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.2.0), 4 days ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.3.0), 2 days ago) - PHPUnit testing utilities for patchlevel/event-sourcing
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.2.0), 3 days ago) - psalm plugin for patchlevel/event-sourcing
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 4 days ago) - Doctrine Database Abstraction Layer
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.1.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.1.0), 4 days ago) - 
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.2.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.2.0), 5 days ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 
 ---
 

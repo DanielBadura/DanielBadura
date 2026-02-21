@@ -19,8 +19,8 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (1 day ago)
-- [patchlevel/php](https://github.com/patchlevel/php) -  (3 days ago)
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (2 days ago)
+- [patchlevel/php](https://github.com/patchlevel/php) -  (4 days ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 week ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 week ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
@@ -29,11 +29,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.6.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.6.0), 2 days ago) - PHPUnit testing utilities for patchlevel/event-sourcing
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.26.2](https://github.com/laminas/automatic-releases/releases/tag/1.26.2), 3 days ago) - Automated release process for `laminas/` projects, usable as github action
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.17.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.17.0), 3 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.16.0](https://github.com/patchlevel/hydrator/releases/tag/1.16.0), 3 days ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
-- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([8.2.0](https://github.com/phpspec/phpspec/releases/tag/8.2.0), 3 weeks ago) - SpecBDD Framework for PHP
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.6.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.6.0), 3 days ago) - PHPUnit testing utilities for patchlevel/event-sourcing
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.26.2](https://github.com/laminas/automatic-releases/releases/tag/1.26.2), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.17.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.17.0), 4 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.16.0](https://github.com/patchlevel/hydrator/releases/tag/1.16.0), 4 days ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [phpspec/phpspec](https://github.com/phpspec/phpspec) ([8.2.0](https://github.com/phpspec/phpspec/releases/tag/8.2.0), 4 weeks ago) - SpecBDD Framework for PHP
 
 ---
 

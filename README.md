@@ -19,18 +19,18 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (6 days ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (6 days ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (6 days ago)
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (6 days ago)
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) -  (6 days ago)
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 week ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) -  (1 week ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.18.0](https://github.com/patchlevel/hydrator/releases/tag/1.18.0), 1 week ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.18.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.18.0), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.18.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.18.0), 4 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.6.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.6.0), 1 month ago) - PHPUnit testing utilities for patchlevel/event-sourcing
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.26.2](https://github.com/laminas/automatic-releases/releases/tag/1.26.2), 1 month ago) - Automated release process for `laminas/` projects, usable as github action
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) ([8.2.0](https://github.com/phpspec/phpspec/releases/tag/8.2.0), 1 month ago) - SpecBDD Framework for PHP

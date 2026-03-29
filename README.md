@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.15.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.15.0), 2 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.15.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.15.0), 3 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.18.0](https://github.com/patchlevel/hydrator/releases/tag/1.18.0), 2 weeks ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.18.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.18.0), 1 month ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.6.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.6.0), 1 month ago) - PHPUnit testing utilities for patchlevel/event-sourcing

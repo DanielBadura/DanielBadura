@@ -8,7 +8,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 📝 Our recent blog posts
 
-{{range rss "https://patchlevel.de/rss.xml" 5}}
+{{range rss "https://patchlevel.dev/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 

@@ -9,19 +9,19 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
+- [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (1 day ago)
 - [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (2 weeks ago)
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-11) (1 year ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (1 year ago)
 - [What is New in PHP Event Sourcing 3.8](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-8) (1 year ago)
-- [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.dev/blog/the-performance-factor-in-event-sourcing) (1 year ago)
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
-- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (1 week ago)
-- [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (1 week ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
+- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 weeks ago)
+- [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (2 weeks ago)
 - [patchlevel/odm](https://github.com/patchlevel/odm) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB (2 weeks ago)
 - [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (2 weeks ago)
 
@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.20.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.20.0), 2 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.20.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.20.0), 3 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/odm](https://github.com/patchlevel/odm) ([1.0.0](https://github.com/patchlevel/odm/releases/tag/1.0.0), 2 weeks ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.0](https://github.com/patchlevel/hydrator/releases/tag/2.0.0), 2 weeks ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.0), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.

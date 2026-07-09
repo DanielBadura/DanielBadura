@@ -9,9 +9,9 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (1 day ago)
-- [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (6 days ago)
-- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (2 weeks ago)
+- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (2 days ago)
+- [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (1 week ago)
+- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (3 weeks ago)
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-11) (1 year ago)
 - [What is New in PHP Event Sourcing 3.9 &amp; 3.10](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-9-and-3-10) (1 year ago)
 

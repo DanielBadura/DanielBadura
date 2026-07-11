@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (3 days ago)
+- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (4 days ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (1 week ago)
 - [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (3 weeks ago)
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-11) (1 year ago)
@@ -19,11 +19,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
-- [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (3 weeks ago)
 - [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (3 weeks ago)
+- [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (3 weeks ago)
 - [patchlevel/odm](https://github.com/patchlevel/odm) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB (3 weeks ago)
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) - phpstan extension for event-sourcing library. (3 weeks ago)
 
 ---
 

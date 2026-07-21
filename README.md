@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (1 week ago)
+- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (2 weeks ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (2 weeks ago)
 - [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (1 month ago)
 - [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-11) (1 year ago)
@@ -19,21 +19,21 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) - phpstan extension for event-sourcing library. (2 days ago)
-- [patchlevel/php](https://github.com/patchlevel/php) -  (2 days ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) - phpstan extension for event-sourcing library. (1 day ago)
+- [patchlevel/php](https://github.com/patchlevel/php) -  (3 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (6 days ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.1), 5 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.20.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.20.0), 2 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.3.0), 1 day ago) - phpstan extension for event-sourcing library.
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.1), 6 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.20.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.20.0), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/odm](https://github.com/patchlevel/odm) ([1.0.0](https://github.com/patchlevel/odm/releases/tag/1.0.0), 1 month ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.0](https://github.com/patchlevel/hydrator/releases/tag/2.0.0), 1 month ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
-- [patchlevel/rango](https://github.com/patchlevel/rango) ([1.0.0](https://github.com/patchlevel/rango/releases/tag/1.0.0), 2 months ago) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB
 
 ---
 

@@ -9,11 +9,11 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
+- [What is New in the Event Sourcing PHPStan Extension 1.3.0](https://patchlevel.dev/blog/what-is-new-in-the-event-sourcing-phpstan-extension-1-3-0) (1 day ago)
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time) (2 weeks ago)
-- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (4 weeks ago)
+- [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (1 month ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (1 month ago)
 - [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (1 month ago)
-- [What is New in PHP Event Sourcing 3.11.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-11) (1 year ago)
 
 ---
 
@@ -21,7 +21,7 @@ You can book me if you need help realizing a project or training your employees 
 
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 week ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
-- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (1 week ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (2 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) - PHPUnit testing utilities for patchlevel/event-sourcing (2 weeks ago)
 

@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [What is New in the Event Sourcing PHPStan Extension 1.3.0](https://patchlevel.dev/blog/what-is-new-in-the-event-sourcing-phpstan-extension-1-3-0) (2 days ago)
+- [What is New in the Event Sourcing PHPStan Extension 1.3.0](https://patchlevel.dev/blog/what-is-new-in-the-event-sourcing-phpstan-extension-1-3-0) (3 days ago)
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time) (2 weeks ago)
 - [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (1 month ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (1 month ago)

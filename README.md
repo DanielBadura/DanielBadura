@@ -9,7 +9,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 📝 Our recent blog posts
 
 
-- [What is New in the Event Sourcing PHPStan Extension 1.3.0](https://patchlevel.dev/blog/what-is-new-in-the-event-sourcing-phpstan-extension-1-3-0) (3 weeks ago)
+- [What is New in the Event Sourcing PHPStan Extension 1.3.0](https://patchlevel.dev/blog/what-is-new-in-the-event-sourcing-phpstan-extension-1-3-0) (4 weeks ago)
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time) (1 month ago)
 - [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (1 month ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (2 months ago)
@@ -29,11 +29,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/odm](https://github.com/patchlevel/odm) ([1.1.0](https://github.com/patchlevel/odm/releases/tag/1.1.0), 1 day ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
-- [patchlevel/rango](https://github.com/patchlevel/rango) ([1.1.0](https://github.com/patchlevel/rango/releases/tag/1.1.0), 1 day ago) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.21.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.21.0), 6 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.3.0), 1 month ago) - phpstan extension for event-sourcing library.
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.1), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.27.0](https://github.com/laminas/automatic-releases/releases/tag/1.27.0), 1 day ago) - Automated release process for `laminas/` projects, usable as github action
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.1](https://github.com/patchlevel/hydrator/releases/tag/2.0.1), 1 day ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [patchlevel/odm](https://github.com/patchlevel/odm) ([1.1.0](https://github.com/patchlevel/odm/releases/tag/1.1.0), 2 days ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
+- [patchlevel/rango](https://github.com/patchlevel/rango) ([1.1.0](https://github.com/patchlevel/rango/releases/tag/1.1.0), 2 days ago) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.21.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.21.0), 1 week ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 
 ---
 

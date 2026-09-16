@@ -13,13 +13,13 @@ You can book me if you need help realizing a project or training your employees 
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time) (1 month ago)
 - [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (2 months ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (2 months ago)
-- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (2 months ago)
+- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (3 months ago)
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
 - [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (1 week ago)
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (3 weeks ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 month ago)
@@ -29,7 +29,7 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.28.0](https://github.com/laminas/automatic-releases/releases/tag/1.28.0), 6 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.28.0](https://github.com/laminas/automatic-releases/releases/tag/1.28.0), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) ([1.0.0](https://github.com/patchlevel/event-sourcing-dashboard-bundle/releases/tag/1.0.0), 1 week ago) - This bundle provides web ui interfaces for the patchlevel/event-sourcing. 
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.1](https://github.com/patchlevel/hydrator/releases/tag/2.0.1), 2 weeks ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/odm](https://github.com/patchlevel/odm) ([1.1.0](https://github.com/patchlevel/odm/releases/tag/1.1.0), 2 weeks ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB

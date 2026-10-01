@@ -19,21 +19,21 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (today)
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (2 weeks ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 day ago)
+- [patchlevel/event-sourcing-analyser](https://github.com/patchlevel/event-sourcing-analyser) - WIP (2 weeks ago)
 - [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.21.3](https://github.com/patchlevel/event-sourcing/releases/tag/3.21.3), 1 day ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.2](https://github.com/patchlevel/hydrator/releases/tag/2.0.2), 1 week ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0), 1 day ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.21.4](https://github.com/patchlevel/event-sourcing/releases/tag/3.21.4), 1 day ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.2](https://github.com/patchlevel/hydrator/releases/tag/2.0.2), 1 week ago) - This library enables seamless hydration of objects to arrays and back again. It’s optimized for both developer experience (DX) and performance.
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.28.0](https://github.com/laminas/automatic-releases/releases/tag/1.28.0), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) ([1.0.0](https://github.com/patchlevel/event-sourcing-dashboard-bundle/releases/tag/1.0.0), 3 weeks ago) - This bundle provides web ui interfaces for the patchlevel/event-sourcing. 
-- [patchlevel/odm](https://github.com/patchlevel/odm) ([1.1.0](https://github.com/patchlevel/odm/releases/tag/1.1.0), 1 month ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
 
 ---
 

@@ -20,7 +20,7 @@ You can book me if you need help realizing a project or training your employees 
 #### 👷 Check out what I'm currently working on
 
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 week ago)
 - [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (3 weeks ago)
 - [patchlevel/event-sourcing-dashboard-bundle](https://github.com/patchlevel/event-sourcing-dashboard-bundle) - This bundle provides web ui interfaces for the patchlevel/event-sourcing.  (3 weeks ago)
@@ -29,11 +29,11 @@ You can book me if you need help realizing a project or training your employees 
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.7.0](https://github.com/patchlevel/worker/releases/tag/1.7.0), 2 days ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.22.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.22.0), 4 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.5.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.5.0), 1 day ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.24.3](https://github.com/patchlevel/hydrator/releases/tag/1.24.3), 1 day ago) - This library enables seamless hydration of objects to arrays and back again. It’s optimized for both developer experience (DX) and performance.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.22.1](https://github.com/patchlevel/event-sourcing/releases/tag/3.22.1), 1 day ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.7.0](https://github.com/patchlevel/worker/releases/tag/1.7.0), 3 days ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([2.0.2](https://github.com/patchlevel/hydrator/releases/tag/2.0.2), 2 weeks ago) - This library enables seamless hydration of objects to arrays and back again. It’s optimized for both developer experience (DX) and performance.
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.28.0](https://github.com/laminas/automatic-releases/releases/tag/1.28.0), 4 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 
 ---
 

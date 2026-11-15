@@ -13,7 +13,7 @@ You can book me if you need help realizing a project or training your employees 
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time) (3 months ago)
 - [Cutting Your Events the Right Way](https://patchlevel.dev/blog/cutting-your-events-the-right-way) (4 months ago)
 - [What is New in PHP Event Sourcing 3.20.0](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-20) (4 months ago)
-- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (4 months ago)
+- [What is New in PHP Event Sourcing 3.12 to 3.19](https://patchlevel.dev/blog/what-is-new-in-php-event-sourcing-3-12-to-3-19) (5 months ago)
 
 ---
 
